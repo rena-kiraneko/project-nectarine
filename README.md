@@ -8,7 +8,7 @@ The First Fully Untethered Downgrade Tool for A4–A20 Devices
 
 # 📱 Downgrade in Action
 
-(POC)[https://youtube.com/watch?v=sSSOG8g7PFg]
+[Demo Video](https://youtube.com/watch?v=sSSOG8g7PFg)
 
 ⸻
 
