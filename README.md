@@ -4,13 +4,9 @@ The First Fully Untethered Downgrade Tool for A4–A20 Devices
 
 “Because waiting for exploits is overrated.”
 
-⸻
-
 # 📱 Downgrade in Action
 
 [Demo Video](https://youtube.com/watch?v=sSSOG8g7PFg)
-
-⸻
 
 # 📱 Supported Devices
 
@@ -21,8 +17,6 @@ The First Fully Untethered Downgrade Tool for A4–A20 Devices
 •	iPod touch (we didn’t forget you)
 
 •	Apple Watch (don’t ask)
-
-⸻
 
 # 🧠 Features
 
@@ -39,8 +33,6 @@ The First Fully Untethered Downgrade Tool for A4–A20 Devices
 
 •	✅ Automatic existential crisis handler
 
-⸻
-
 # ⚙️ Requirements
 
 •	A computer (recommended)
@@ -51,16 +43,11 @@ The First Fully Untethered Downgrade Tool for A4–A20 Devices
 
 •	At least 2% battery (on both you and the phone)
 
-⸻
-
 # 🚀 Usage
 
 	git clone https://github.com/you/project-nectarine
 	cd project-nectarine
 	python3 downgrade.py
-
-
-⸻
 
 # 🧪 Downgrade Process
 
@@ -82,8 +69,6 @@ The First Fully Untethered Downgrade Tool for A4–A20 Devices
 
 •	Question reality… ⏳
 
-⸻
-
 # ⚠️ Known Issues
 
 •	May or may not work
@@ -94,8 +79,6 @@ The First Fully Untethered Downgrade Tool for A4–A20 Devices
 
 •	On rare occasions, nothing happens (intended behavior)
 
-⸻
-
 # 📜 License
 
 This project is licensed under the Bee Movie Script License (BMSL v1.0).
@@ -103,9 +86,6 @@ This project is licensed under the Bee Movie Script License (BMSL v1.0).
 By using this software, you agree that:
 
 	According to all known laws of aviation, there is no way a bee should be able to fly…
-
-
-⸻
 
 # 🙏 Credits
 
@@ -116,8 +96,6 @@ By using this software, you agree that:
 •	That one random forum post from 2012
 
 •	Sheer confidence
-
-⸻
 
 # 💬 Final Notes
 
