@@ -6,6 +6,12 @@ The First Fully Untethered Downgrade Tool for A4–A20 Devices
 
 ⸻
 
+# 📱 Downgrade in Action
+
+(POC)[https://youtube.com/watch?v=sSSOG8g7PFg]
+
+⸻
+
 # 📱 Supported Devices
 
 •	iPhone 4 → iPhone 18 Pro Max
